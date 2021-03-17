@@ -1,5 +1,7 @@
 # Hi, I'm Charlie 👋 
 
+## About me
+
 - :man_technologist: Looking for a **Junior Dev role**    
 - :man_student: Studied **Software Engineering** at [Makers Academy](https://makers.tech/)  
 - :man_teacher: Background in **Education and Publishing**  
