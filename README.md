@@ -1,7 +1,7 @@
 # Hi, I'm Charlie 👋 
 
 - :man_technologist: **Currently looking for a Junior Dev role**    
-- :man_student: **Studied Software Engineering at (Makers Academy)[https://makers.tech/]**  
+- :man_student: **Studied Software Engineering at [Makers Academy](https://makers.tech/)**  
 - :man_teacher: **Background in Education and Publishing**  
 - 🌱 **Currently learning Java**   
 - :email: **You can reach me at**
