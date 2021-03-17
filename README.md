@@ -1,9 +1,10 @@
 # Hi, I'm Charlie 👋 
 
-- :man_technologist: Currently looking for a **Junior Dev role**    
+- :man_technologist: Looking for a **Junior Dev role**    
 - :man_student: Studied **Software Engineering** at [Makers Academy](https://makers.tech/)  
 - :man_teacher: Background in **Education and Publishing**  
 - 🌱 Currently learning **Java**   
+- :hammer: Currently working on [a voice-notes extension for Slack](https://github.com/voice-notes)  
 - :email: Where to reach me: 
 <a href="https://www.linkedin.com/in/charliegalbraith/" target="_blank" rel="noopener noreferrer"> <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="20" style="vertical-align:top; margin:4px"> </a>
 <a href="https://github.com/charlie-galb/" target="_blank" rel="noopener noreferrer"> <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" height="20" style="vertical-align:top; margin:4px"> </a> 
